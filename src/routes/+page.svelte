@@ -2,7 +2,7 @@
 </script>
 
 <section class="">
-    <div class="grid lg:grid-cols-2 grid-cols-1 my-24 md:my-28 md:px-20 w-full" data-aos="fade-up">
+    <div class="grid md:grid-cols-2 grid-cols-1 my-24 md:my-28 lg:px-20 w-full" data-aos="fade-up">
         <div class="">
           <div class="">
             <h1 class="my-4 text-4xl md:text-6xl max-w-full text-black">
@@ -69,7 +69,7 @@
                     </div>
                 </div>
     
-                <div class="flex place-items-center mx-2 md:mx-14">
+                <div class="flex place-items-center mx-2 lg:mx-14">
                   <svg
                     preserveAspectRatio="xMidYMid meet"
                     data-bbox="23.5 23.5 153 153"
@@ -1452,8 +1452,8 @@
         </div>
     </div>
 
-    <div class="md:m-10 md:px-20">
-        <div class="grid gap-1 grid-cols-1 md:grid-cols-4 md:m-2 place-items-center">
+    <div class="lg:m-10 lg:px-20">
+        <div class="grid w-full gap-1 grid-cols-1 md:grid-cols-4 md:m-2 ">
           <div class="mx-2 md:my-0 my-2">
             <img
               class="rounded-lg border-2 border-black border-solid"
@@ -1517,7 +1517,7 @@
         </div>
     </div>
 
-    <div class="grid lg:grid-cols-2 m-2 md:m-10 md:px-20">
+    <div class="grid lg:grid-cols-2 m-2 lg:m-10 md:px-20">
         <div class="relative lg:block lg:col-span-1 py-2 md:py-10 my-6">
             <div class="md:w-[620px] px-2 md:my-0">
           <svg
@@ -2959,7 +2959,7 @@
         </div>
     </div>
 
-    <div class="md:m-10 md:px-20">
+    <div class="lg:m-10 lg:px-20">
         <div class="mx-2 ">
           <h1 class="text-5xl">What Our Clients Say</h1>
         </div>
@@ -3865,7 +3865,7 @@
           >
             Get Started
           </button>
-          <div class="relative -mb-5 md:-mb-8 md:w-[1120px]">
+          <div class="relative -mb-5 md:-mb-8">
             <svg
               preserveAspectRatio="xMidYMid meet"
               data-bbox="5.562 43.898 188.88 112.161"
